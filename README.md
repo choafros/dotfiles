@@ -1,2 +1,2 @@
-# macos
-macos custom .dotfiles
+# zsh custom config
+My custom macos .dotfiles config
