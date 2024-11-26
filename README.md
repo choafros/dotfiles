@@ -1,1 +1,1 @@
-# My custom .dotfiles configs
+# .dotfiles configs
